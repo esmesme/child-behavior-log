@@ -1,0 +1,10 @@
+{
+    "id": "child-behavior-log",
+    "name": "Child Behavior Log",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Log parent-child interactions with structured reflection questions to build awareness and track patterns.",
+    "author": "Naiya.eth",
+    "authorUrl": "https://github.com/esmesme",
+    "isDesktopOnly": false
+}
